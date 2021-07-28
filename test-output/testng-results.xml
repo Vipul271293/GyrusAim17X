@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="vipulqatest" duration-ms="13785" started-at="2021-05-28T12:31:51 EDT" finished-at="2021-05-28T12:32:05 EDT">
+    <groups>
+    </groups>
+    <test name="Login" duration-ms="13785" started-at="2021-05-28T12:31:51 EDT" finished-at="2021-05-28T12:32:05 EDT">
+      <class name="com.qavipul.VipulTest.LoginPage">
+        <test-method status="PASS" signature="LMSTesting()[pri:0, instance:com.qavipul.VipulTest.LoginPage@731a74c]" name="LMSTesting" duration-ms="13726" started-at="2021-05-28T12:31:51 EDT" finished-at="2021-05-28T12:32:05 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LMSTesting -->
+      </class> <!-- com.qavipul.VipulTest.LoginPage -->
+    </test> <!-- Login -->
+  </suite> <!-- vipulqatest -->
+</testng-results>
