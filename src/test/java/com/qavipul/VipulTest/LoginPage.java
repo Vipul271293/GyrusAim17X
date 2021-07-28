@@ -14,7 +14,7 @@ public class LoginPage {
 	  
 	  System.setProperty("webdriver.chrome.driver", "C:\\Users\\vcp\\eclipse-workspace\\VipulTest\\File\\chromedriver.exe");
 	  
-	  
+	  //test
 	  driver = new ChromeDriver();
 	  
 	  driver.manage().window().maximize();
